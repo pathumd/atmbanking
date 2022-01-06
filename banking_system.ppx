@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings version="1.0">
+	<category name="banking_system.c">
+		<category name="Window">
+			<property name="Left" type="integer">4294967285</property>
+			<property name="Top" type="integer">4294967251</property>
+			<property name="Right" type="integer">1466</property>
+			<property name="Bottom" type="integer">730</property>
+			<property name="Maximized" type="integer">1</property>
+			<property name="Active" type="integer">1</property>
+		</category>
+	</category>
+</settings>
